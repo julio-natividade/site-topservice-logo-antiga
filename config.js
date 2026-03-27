@@ -6,7 +6,7 @@
 const siteConfig = {
     // ===== IDENTIFICAÇÃO =====
     siteName: "Top Service",
-    logoUrl: "LOGO-3.PNG", // Substitua pela URL da sua logo real
+    logoUrl: "https://placehold.co/200x60/0f1728/ff334e?text=SeTech+Logo", // Substitua pela URL da sua logo real
     
     // ===== CONTATOS =====
     phone: "0800-718-8787",
