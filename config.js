@@ -6,7 +6,7 @@
 const siteConfig = {
     // ===== IDENTIFICAÇÃO =====
     siteName: "Top Service",
-    logoUrl: "LOGO-4-TRA.PNG", // Substitua pela URL da sua logo real
+    logoUrl: "LOGO-4-FUN.PNG", // Substitua pela URL da sua logo real
     
     // ===== CONTATOS =====
     phone: "0800-718-8787",
